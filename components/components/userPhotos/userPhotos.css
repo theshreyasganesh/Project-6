@@ -1,0 +1,32 @@
+/* userPhotos.css */
+
+.root {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.media {
+  padding-top: 100%; /* 1:1 aspect ratio */
+  background-position: center;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .root {
+    padding: 20px 40px;
+  }
+}
