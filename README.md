@@ -3,7 +3,7 @@
 # SCRUM TEAM
 
 # Product Owner
-Nishit Shah.
+Nishit Shah
 
 Neketha Suresh
 
@@ -11,11 +11,11 @@ Neketha Suresh
 Shreyas Ganeshguru 
 
 # Developers
-Lythe Elhulu.
+Lythe Elhulu
 
-Tanvi Garg.
+Tanvi Garg
 
-Akriti Saxena.
+Akriti Saxena
 
 
 
