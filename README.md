@@ -4,6 +4,7 @@
 
 # Product Owner
 Nishit Shah.
+
 Neketha Suresh
 
 # SCRUM MASTER
@@ -11,7 +12,9 @@ Shreyas Ganeshguru
 
 # Developers
 Lythe Elhulu.
+
 Tanvi Garg.
+
 Akriti Saxena.
 
 
