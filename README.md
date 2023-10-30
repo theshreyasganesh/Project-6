@@ -1,4 +1,24 @@
 # Project-6
+
+# SCRUM TEAM
+
+# Product Owner
+Nishit Shah
+Neketha Suresh
+
+# SCRUM MASTER
+Shreyas Ganeshguru 
+
+# Developers
+Lythe Elhulu
+Tanvi Garg
+Akriti Saxena
+
+
+
+
+
+
 # Photo Sharing App with MongoDB Integration - full stack application 
 This project involves enhancing your Photo Sharing App by integrating it with MongoDB, making it a full-stack application. Below are the instructions on how to set up, run, and understand the changes made to the application.
 
